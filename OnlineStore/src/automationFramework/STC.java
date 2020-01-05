@@ -28,6 +28,7 @@ STC(int a,int b ,float c) {
 	this();
 	
 	 System.out.println(" Child 3 const");
+	 System.out.println(" Thankyou");
 		
 	}
 		
